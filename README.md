@@ -14,4 +14,4 @@ The program receives user input through the C++ side, categorizes the input, and
 ## Implementation
 As mentioned, the user input is collected through the C++ side, the program then proceeds through one of two options. 
 #### Option 1:
-The workout generator is selected and the specific muscle group is collected along with a randomly generated int. These two parameters are passed to the main 'movement' function. 
+The workout generator is selected and the specific muscle group is collected along with a randomly generated int. These two parameters are passed to the main `movement` function. 
