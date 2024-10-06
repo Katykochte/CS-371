@@ -1,6 +1,4 @@
 ## Assembly Workout Generator and Health Value Calculator
-
-[Workout Logo 2.pdf](https://github.com/user-attachments/files/17270804/Workout.Logo.2.pdf)
 ![Workout Logo 2](https://github.com/user-attachments/assets/4bb803e3-b3e9-489f-a7f6-c77443cc9e0c)
 
 
