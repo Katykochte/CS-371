@@ -3,7 +3,7 @@
 ## Assembly Workout Generator and Health Value Calculator
 
 
-This program can create randomized workouts or perform health calculations. The files included are in Assembly Language and C++ and link together to complete the package. The program receives user input through the C++ side, categorizes the input, and calls functions in assembly to do the majority of the work. 
+This program can create randomized workouts or perform health calculations. The files included are in Assembly Language and C++ and link together to complete the package. The program receives user input through the C++ side, categorizes the input, and calls functions in assembly to do the majority of the work. A higher quality PDF of the logo may be seen [here](https://www.canva.com/design/DAGS0zeLTK8/W6QxbbdcDHyEaoLYbGOH6w/view?utm_content=DAGS0zeLTK8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### This program is capable of:
 - Calculating BMI if given height in feet and inches, weight in pounds, and age
